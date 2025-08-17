@@ -2,7 +2,7 @@
 
 ### I’m Michel (aka miapferreira) — SRE / DevOps Engineer, currently expanding into Java development and Spanish 🇦🇷🇺🇾
 
-- 🌱 Currently learning: Java (backend fundamentals & testing) and Rioplatense Spanish
+- 🌱 Currently learning: Java (backend fundamentals & testing) and Spanish
 - ⚙️ Also growing in: Kubernetes, Helm, EKS, Prometheus, and automation on AWS
 - 👯 Open to collaborate on: AWS, Terraform, Linux, Observability and SRE best practices
 - 🤝 Looking for help with: advanced Kubernetes patterns and Java testing strategies
